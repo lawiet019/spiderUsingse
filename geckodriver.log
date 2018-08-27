@@ -1,0 +1,12 @@
+1535353883874	geckodriver	INFO	geckodriver 0.21.0
+1535353883885	geckodriver	INFO	Listening on 127.0.0.1:63275
+1535353884403	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\yufwu\\AppData\\Local\\Temp\\rust_mozprofile.HYfpjnTi4ggd"
+1535353886354	Marionette	INFO	Listening on port 2828
+1535353948838	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1535353952496	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
